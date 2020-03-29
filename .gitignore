@@ -18,3 +18,7 @@ deploy.ulparis0102
 
 notes.txt
 archives.txt
+
+.idea/*
+
+.DS_Store
